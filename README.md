@@ -12,4 +12,4 @@
 
 ---
 
-![A goofy, smiling emoji fades into a horrified emoji.](https://github.com/user-attachments/assets/4e714a27-9610-477e-bce5-1f3c1f58f991>)
+![A goofy, smiling emoji fades into a horrified emoji.](https://i.redd.it/nk0my3m3o0od1.gif)
