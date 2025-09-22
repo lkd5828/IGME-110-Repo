@@ -14,7 +14,7 @@
 
 ---
 
-My college is RIT- check out[its homepage!](https://www.rit.edu/)
+My college is RIT- check out [its homepage!](https://www.rit.edu/)
 
 ---
 ![A goofy, smiling emoji fades into a horrified emoji.](https://i.redd.it/nk0my3m3o0od1.gif)
