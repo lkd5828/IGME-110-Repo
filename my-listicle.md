@@ -4,7 +4,7 @@
 **Actually, there are two of them!**
 **Check out:**
 
-Spider Resources!
+*Spider Resources!*
 
 ---
 
@@ -16,7 +16,7 @@ Spider Resources!
 
 
 
-Applications I always install on a fresh computer!
+*Applications I always install on a fresh computer!*
 
 ---
 
