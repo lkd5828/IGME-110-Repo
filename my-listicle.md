@@ -1,4 +1,4 @@
-# L. "Guild" Dunlap's Listicles
+# L. "Guild" Dunlap's Listicle
 ## Welcome to my Listicle!
 
 Check it out:
