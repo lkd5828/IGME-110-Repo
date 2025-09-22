@@ -1,9 +1,11 @@
 # IGME-110-Repo
-## Guild Dunlap
+## "Guild" Dunlap
 
 - Demo!
 - Take a look!
+
 ---
+
 <ol>
 <li>A first item,</li>
 <li>A second item,</li>
@@ -12,4 +14,7 @@
 
 ---
 
+My college is RIT- check out[its homepage!](https://www.rit.edu/)
+
+---
 ![A goofy, smiling emoji fades into a horrified emoji.](https://i.redd.it/nk0my3m3o0od1.gif)
