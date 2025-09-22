@@ -1,12 +1,13 @@
-# L. "Guild" Dunlap's git
-## Welcome to my Listicle!
+# L. "Guild" Dunlap's Listicles
+## Welcome to my Listicles!
 
-**Actually, there are two of them!**
-**Check out:**
+**There are two of them!**
 
-*Spider Resources!*
+Check it out:
 
 ---
+
+### *Spider Resources!*
 
 <ol>
 <li>A first item,</li>
@@ -14,15 +15,12 @@
 <li>And a third item.</li>
 </ol>
 
-
-
-*Applications I always install on a fresh computer!*
-
 ---
 
+### *Applications I always install on a fresh computer!*
 
 <ol>
-<li>Deskpins</li>
+<li>(Deskpins)[https://deskpins.en.softonic.com/download?ex=RAMP-3507.0&rex=true]</li>
   It keeps whatever application you want on the 'top'.
 <li>A second item,</li>
 <li>And a third item.</li>
